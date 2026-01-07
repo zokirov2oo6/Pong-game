@@ -14,7 +14,7 @@ This project demonstrates fundamental game development concepts such as movement
 
 ## Technologies Used
 - Python
-- Turtle graphics *(if Pygame ishlatgan bo‘lsang, Turtle’ni Pygame bilan almashtir)*
+- Turtle graphics 
 
 ## Project Structure
 
